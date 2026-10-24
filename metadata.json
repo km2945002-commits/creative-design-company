@@ -1,0 +1,8 @@
+{
+  "name": "Creative Design Studio",
+  "description": "Web & App Dev, Logos, Business Cards, Packaging & Flex Banners using AI tools, WordPress, Hostinger, CorelDRAW, and Adobe Illustrator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
